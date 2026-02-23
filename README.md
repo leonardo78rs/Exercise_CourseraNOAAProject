@@ -6,6 +6,7 @@
   - Obter os dados 
   - Limpar, processar, classificar e preparar 
   - Plotar gráficos e analisar
+  - Gerar automaticamente página .html e arquivo .Rmd e .md
     
 ## 🛠️ Tecnologias 
   Linguagem: R 
@@ -13,11 +14,11 @@
        
 ## 👉 Pré-requisitos
 
-    Nenhum
+    1. Ter o R ou RStudio instalado na máquina
 
 ## 🚀 Instalação e Uso
     O que você precisa para rodar este projeto:
-    1. Ter o R ou RStudio instalado na máquina
+    1. Apenas abrir o arquivo PA2_Start.R no RStudio ou compilar diretamente via R. 
     
 --- 
 ## 👁 Visualizar o artigo gerado pelo projeto 
