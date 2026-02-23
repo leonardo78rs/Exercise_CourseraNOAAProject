@@ -1,6 +1,29 @@
-# CourseraNOAAProject
+# 🎯  R: Exercício de obtenção, análise e limpeza de dados. 
 
-# Reproducible Research: Peer Assessment 2
+  Este projeto envolve a exploração do banco de dados de tempestades da Administração Nacional Oceânica e Atmosférica dos Estados Unidos (NOAA). 
+
+## 🔖 Funcionalidades
+  - Obter os dados 
+  - Limpar, processar, classificar e preparar 
+  - Plotar gráficos e analisar
+    
+## 🛠️ Tecnologias 
+  Linguagem: R 
+  Bibliotecas: plyr, knitr, ggplot2, grid	           
+       
+## 👉 Pré-requisitos
+
+    Nenhum
+
+## 🚀 Instalação e Uso
+    O que você precisa para rodar este projeto:
+    1. Ter o R ou RStudio instalado na máquina
+    
+--- 
+## 👁 Visualizar o artigo gerado pelo projeto 
+
+## CourseraNOAAProject
+### Reproducible Research: Peer Assessment 2
 
 ## Introduction
 Storms and other severe weather events can cause both public health and economic problems for communities and municipalities. Many severe events can result in fatalities, injuries, and property damage, and preventing such outcomes to the extent possible is a key concern.
